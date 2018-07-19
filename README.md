@@ -1,6 +1,6 @@
 # Code accompanying *Precision oncology for acute myeloid leukemia using a knowledge bank approach*
 
-Gerstung *et al.*, *Nature Genetics*, (in press). Preprint available at bioRxiv, http://dx.doi.org/10.1101/057497.
+Gerstung *et al.*, _Nature Genetics_ **49**:332-340 (2017). http://dx.doi.org/10.1038/ng.3756
 
 This repository contains all code used for running the analysis in the above manuscript. It was used and tested in `R-3.1.2`. 
 
